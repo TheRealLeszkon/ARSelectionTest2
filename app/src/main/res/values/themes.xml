@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme for the Compose activity; the actual UI colors come from the Compose
+         MaterialTheme, so this only needs to be a valid Material parent. -->
+    <style name="Theme.ARDepth" parent="android:Theme.Material.NoActionBar" />
+</resources>
